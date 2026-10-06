@@ -51,7 +51,7 @@ The project includes a complete training and model-performance dashboard showing
 - Model parameter statistics
 - Vanilla RNN architecture details
 
-![Vanilla RNN Visualization](Vanilla_RNN_Visualization.png)
+<img width="5371" height="3256" alt="image" src="https://github.com/user-attachments/assets/53f97689-e221-4e43-801f-09d63a0745e6" />
 
 ---
 
@@ -116,7 +116,7 @@ The dashboard contains:
 - Entity-type prediction accuracy
 - Model parameter information
 
-<img width="5370" height="3256" alt="image" src="https://github.com/user-attachments/assets/0c50a3bb-6517-42e7-8cca-ee0ec091f3a7" />
+<img width="5369" height="3256" alt="image" src="https://github.com/user-attachments/assets/0accf37f-fbd4-4dae-b8fb-007211096e45" />
 
 
 ---
@@ -200,7 +200,7 @@ The dashboard shows:
 - Classification threshold
 - Siamese BiLSTM parameter statistics
 
-<img width="5368" height="3256" alt="image" src="https://github.com/user-attachments/assets/ee6df3fc-0c51-4c15-8329-f6ba429c256e" />
+<img width="5370" height="3256" alt="image" src="https://github.com/user-attachments/assets/149c15af-b9ce-43ca-a9d5-b5582751cdaf" />
 
 
 ---
