@@ -116,7 +116,8 @@ The dashboard contains:
 - Entity-type prediction accuracy
 - Model parameter information
 
-![BiLSTM NER Visualization](BiLSTM_NER_Visualization.png)
+<img width="5370" height="3256" alt="image" src="https://github.com/user-attachments/assets/0c50a3bb-6517-42e7-8cca-ee0ec091f3a7" />
+
 
 ---
 
@@ -199,7 +200,8 @@ The dashboard shows:
 - Classification threshold
 - Siamese BiLSTM parameter statistics
 
-![Siamese BiLSTM Paraphrase Visualization](Siamese_BiLSTM_Paraphrase_Visualization.png)
+<img width="5368" height="3256" alt="image" src="https://github.com/user-attachments/assets/ee6df3fc-0c51-4c15-8329-f6ba429c256e" />
+
 
 ---
 
@@ -259,7 +261,8 @@ The dashboard includes:
 - Parameter comparison
 - Best-model identification
 
-![Weather LSTM GRU Visualization](Weather_LSTM_GRU_Visualization.png)
+<img width="5368" height="3256" alt="image" src="https://github.com/user-attachments/assets/65f7e6fa-232d-4123-800c-57c1440d58e4" />
+
 
 ---
 
@@ -431,19 +434,23 @@ Each project contains a consolidated visualization dashboard designed to present
 
 ### Vanilla RNN
 
-![Vanilla RNN Dashboard](Vanilla_RNN_Visualization.png)
+<img width="5371" height="3256" alt="image" src="https://github.com/user-attachments/assets/53f97689-e221-4e43-801f-09d63a0745e6" />
+
 
 ### BiLSTM NER
 
-![BiLSTM NER Dashboard](BiLSTM_NER_Visualization.png)
+<img width="5369" height="3256" alt="image" src="https://github.com/user-attachments/assets/0accf37f-fbd4-4dae-b8fb-007211096e45" />
+
 
 ### Siamese BiLSTM
 
-![Siamese BiLSTM Dashboard](Siamese_BiLSTM_Paraphrase_Visualization.png)
+<img width="5370" height="3256" alt="image" src="https://github.com/user-attachments/assets/149c15af-b9ce-43ca-a9d5-b5582751cdaf" />
+
 
 ### LSTM & GRU Forecasting
 
-![LSTM GRU Dashboard](Weather_LSTM_GRU_Visualization.png)
+<img width="5368" height="3256" alt="image" src="https://github.com/user-attachments/assets/38d9e562-8ddc-4dee-8a42-611db4abf5a3" />
+
 
 ---
 
